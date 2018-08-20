@@ -1,0 +1,2 @@
+# ImageViewChanger
+This app let you change the background color of the Activity.  You can choose "red", "green", or "blue" as colors using the "Red", "Green", or "Blue" buttons.  Also, you can push the "Change Color" button to get the next color in the sequence.  Thus, if you press the "Red" button but the "Change Color" button usually starts on red, it will automatically go to "green" next instead of repeating "red", and so on.
